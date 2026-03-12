@@ -19,7 +19,7 @@ const Footer = () => {
         </h2>
         <a
           href="/Resume.pdf"
-          download
+          download ="Vidyush_Resume.pdf"
           className="inline-flex items-center gap-3 bg-white text-[#13263b] hover:bg-gray-200 px-8 py-4 rounded-full font-black text-lg transition-all hover:scale-105 active:scale-95 shadow-xl shadow-white/10"
         >
           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
