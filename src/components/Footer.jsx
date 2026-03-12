@@ -18,7 +18,7 @@ const Footer = () => {
 
         </h2>
         <a
-          href="/resume.pdf"
+          href="Resume.pdf"
           download
           className="inline-flex items-center gap-3 bg-white text-[#13263b] hover:bg-gray-200 px-8 py-4 rounded-full font-black text-lg transition-all hover:scale-105 active:scale-95 shadow-xl shadow-white/10"
         >
